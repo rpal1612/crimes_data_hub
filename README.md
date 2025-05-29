@@ -29,3 +29,23 @@ pip
 # Run the Application
     ```bash
   	streamlit run app.py
+# Visualizations
+![Screenshot 2025-05-29 204511](https://github.com/user-attachments/assets/f09b28e6-4db1-411b-9d85-48f147ce52c7)
+
+![image](https://github.com/user-attachments/assets/fedec958-b577-412a-98df-ee0656cde993)
+
+![image](https://github.com/user-attachments/assets/dfca34a7-d01e-42db-87a3-d710d6c0425f)
+
+![image](https://github.com/user-attachments/assets/204fb98d-a057-493f-b96b-ce5e0bf017d6)
+
+![image](https://github.com/user-attachments/assets/8a25225c-7f04-4801-84b9-39c0bed3ab0f)
+
+![image](https://github.com/user-attachments/assets/1089b3e8-11e9-4eb5-86a1-167a4defeaf6)
+
+![image](https://github.com/user-attachments/assets/7273a11e-b553-481d-9c6c-7b10262b4a08)
+
+# Team Members
+Riya Pal , Mangesh Shah , Ishaan Dhuri , Srushti Jadhav
+
+# License
+MIT License - see the LICENSE file for details.
